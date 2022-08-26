@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\bin\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.deps.json
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\bin\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.dll
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\bin\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.pdb
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.dll
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\refint\PRUEBA.BACKEND.DOMAIN.dll
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\PRUEBA.BACKEND.DOMAIN.pdb
+C:\Users\Usuario\Desktop\PruebaNTTData_NetCore\PRUEBA.BACKEND.DOTNET\PRUEBA.BACKEND.DOMAIN\obj\Debug\net6.0\ref\PRUEBA.BACKEND.DOMAIN.dll
